@@ -1,0 +1,46 @@
+# NonProfitDay2025Spain
+
+# Non-profit Day 2025 Spain
+
+Bienvenidos al repositorio oficial del evento **Non-profit Day 2025 Spain**
+
+## Descripción del Evento
+El Non Profit Community Day es el punto de encuentro para ONGs y profesionales del tercer sector que quieran causar impacto con tecnología Microsoft. Un evento gratuito, presencial y único en España, donde casos reales, expertos y comunidad se unen para inspirar, aprender y conectar.
+
+**Fecha:** 4 de diciembre de 2025
+**Ubicación:** Microsoft, Madrid, España
+
+## Contribuciones
+Las sugerencias son bienvenidas. Si deseas proponer mejoras, por favor abre un *issue* para discutir tus ideas.
+
+## Organización
+Esto es cosa de:
+- **Toni Granell**
+- **Vero RIvas**
+- **Fernando Chiquiza**
+- **Ramón Rauetnstrauch**
+
+## Agradecimientos a los patrocinadores
+Queremos agradecer a los patrocinadores que hacen posible el evento:
+- **Platino:** DQS, Encamina y Goom.
+- **Oro:** Laberit, V-Valley, Ekamat, integra, prodware y plain concepts.
+- **Plata:** alesonITC e Innova Advanced Consulting.
+- **Bizz Summit TV y Catering:** EQM.
+- **Colaboran:** U-TAD, Microsoft y Logitech.
+Y a los colaboradores:
+-	Microsoft
+- IAMCP Spain
+-	Asociación Española de Fundaciones
+-Sessionize para el call for speakers y la gestión de todo.
+
+## Licencia
+Este repositorio se distribuye bajo la [Licencia MIT](LICENSE). Consulta el archivo de licencia para más detalles sobre el uso y distribución del contenido.
+
+## Contacto
+Si tienes alguna pregunta o comentario, puedes contactar a Ramón a través de LinkedIn:
+- **Ramón Rautenstrauch:** [@ramonrautenstrauch](https://www.linkedin.com/in/ramonrautenstrauch/)
+
+Por cierto si quieres estar al día de todo lo relacionado con la inteligencia artificial generativa y Copilot, en el blog de Ramón tienes información siempre actualizada: [Consultor 365](https://www.consultor365.com/)
+
+
+¡Esperamos que disfrutes del evento y encuentres inspiración para llevar tu non-profit al siguiente nivel!

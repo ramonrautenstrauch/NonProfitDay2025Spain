@@ -20,16 +20,16 @@ Esto es cosa de:
 
 ## Agradecimientos a los patrocinadores
 Queremos agradecer a los patrocinadores que hacen posible el evento:
-- **Platino:** DQS, Encamina y Goom.
-- **Oro:** Laberit, V-Valley, Ekamat, integra, prodware y plain concepts.
+- **Platino:** Goom Spain, V-Valley, Nextraining, DQS y Encamina.
+- **Especial:** Destinux.
+- **Oro:** Laberit y Ekamat.
 - **Plata:** alesonITC e Innova Advanced Consulting.
-- **Bizz Summit TV y Catering:** EQM.
-- **Colaboran:** U-TAD, Microsoft y Logitech.
-Y a los colaboradores:
--	Microsoft
-- IAMCP Spain
--	Asociación Española de Fundaciones
--Sessionize para el call for speakers y la gestión de todo.
+- **Colaboran:** Prodware, Plain Concepts, alesonITC, Innova Advanced Consulting, Integra y Allbit Solutions.
+Apoyo institucional:
+- **Microsoft**
+- **IAMCP**
+- **Asociación Española de Fundaciones** y
+- **Eventbrite**.
 
 ## Licencia
 Este repositorio se distribuye bajo la [Licencia MIT](LICENSE). Consulta el archivo de licencia para más detalles sobre el uso y distribución del contenido.

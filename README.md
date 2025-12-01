@@ -1,5 +1,3 @@
-# NonProfitDay2025Spain
-
 # Non-profit Day 2025 Spain
 
 Bienvenidos al repositorio oficial del evento **Non-profit Day 2025 Spain**

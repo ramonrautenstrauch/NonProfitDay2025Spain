@@ -25,6 +25,7 @@ Queremos agradecer a los patrocinadores que hacen posible el evento:
 - **Oro:** Laberit y Ekamat.
 - **Plata:** alesonITC e Innova Advanced Consulting.
 - **Colaboran:** Prodware, Plain Concepts, alesonITC, Innova Advanced Consulting, Integra y Allbit Solutions.
+
 Apoyo institucional:
 - **Microsoft**
 - **IAMCP**

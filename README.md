@@ -14,7 +14,7 @@ Las sugerencias son bienvenidas. Si deseas proponer mejoras, por favor abre un *
 ## Organización
 Esto es cosa de:
 - **Toni Granell**
-- **Vero RIvas**
+- **Vero Rivas**
 - **Fernando Chiquiza**
 - **Ramón Rauetnstrauch**
 
